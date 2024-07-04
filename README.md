@@ -1,4 +1,4 @@
-![logo](https://github.com/BilalAhmed8959/BilalAhmed8959/blob/main/bilal.mp4)
+![vide](https://github.com/BilalAhmed8959/BilalAhmed8959/blob/main/bilal.mp4)
 <h1 align="center">Hi 👋, I'm Bilal Ahmed madani</h1>
 <h3 align="center">i am a full stock web developer in pakistan</h3>
 <img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
