@@ -1,7 +1,7 @@
 ![logo](https://github.com/BilalAhmed8959/BilalAhmed8959/blob/main/Bilal.jpg)
 <h1 align="center">Hi 👋, I'm Bilal Ahmed madani</h1>
 <h3 align="center">i am a full stock web developer in pakistan</h3>
-<img float="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img style="align="right"" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmed8959&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmed8959" /> </p>
 
